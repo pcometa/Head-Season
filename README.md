@@ -27,5 +27,5 @@ Sets up essential contract addresses for tokens, lands, and sales, as well as in
 6. removeOperator: Removes operator privileges from specified addresses.
 7. addNftMarketContracts: Establishes the NFT Sales and Marketplace contract addresses post-deployment.
    
-Reach out for [support](info@pcometaearth.com) or further queries regarding the smart contract.
+Reach out for [support](mailto:info@pcometaearth.com) or further queries regarding the smart contract.
 
